@@ -4,9 +4,15 @@ MarketPulse is a Streamlit dashboard for analyzing customer reviews and comparin
 
 The project processes Arabic, English, or mixed-language reviews and shows rating trends, sentiment breakdowns, and recurring customer themes. It can work offline using rating-based sentiment and keyword frequency, with an optional AI layer for deeper topic extraction using the Anthropic Claude API.
 
+## Live Demo
+
+The app is deployed on Streamlit Cloud:
+
+https://marketpulse-sarabaj.streamlit.app
+
 ## Overview
 
-Customer reviews can contain useful signals about product quality, user experience, pricing, support, and common pain points. MarketPulse helps organize these reviews into a simple dashboard that makes patterns easier to see.
+Customer reviews can contain useful signals about product quality, user experience, pricing, support, and common customer pain points. MarketPulse helps organize these reviews into a simple dashboard that makes patterns easier to identify and compare.
 
 The sample dataset includes synthetic reviews for three fintech competitors. Users can also upload their own CSV file through the sidebar.
 
@@ -30,6 +36,7 @@ The sample dataset includes synthetic reviews for three fintech competitors. Use
 | Visualization | Plotly |
 | AI Topic Extraction | Anthropic Claude API |
 | Dataset | Synthetic CSV review data |
+| Deployment | Streamlit Cloud |
 
 ## Project Structure
 
@@ -51,12 +58,12 @@ To upload your own file, the CSV should include these columns:
 
 | Column | Description |
 |---|---|
-| company | Company or competitor name |
-| review_text | Customer review text |
-| rating | Numeric rating from 1 to 5 |
-| date | Review date |
+| `company` | Company or competitor name |
+| `review_text` | Customer review text |
+| `rating` | Numeric rating from 1 to 5 |
+| `date` | Review date |
 
-## How to Run
+## How to Run Locally
 
 ### 1. Install dependencies
 
@@ -96,9 +103,20 @@ The app will open locally, usually at:
 http://localhost:8501
 ```
 
+## Deployment
+
+This project is deployed using Streamlit Cloud.  
+The deployment connects directly to the GitHub repository and runs the main Streamlit file:
+
+```text
+app.py
+```
+
 ## Notes
 
 The project works without an API key by using rating-based sentiment and keyword frequency analysis. The AI feature is optional and only used for extracting deeper recurring themes from review text.
+
+No API keys are included in this repository.
 
 ## Future Improvements
 
@@ -107,7 +125,8 @@ The project works without an API key by using rating-based sentiment and keyword
 - Track recurring themes over time
 - Export dashboard summaries as PDF or CSV
 - Add comparison reports for selected competitors
+- Improve bilingual theme extraction for Arabic and English reviews
 
 ## Purpose
 
-This project was built to practice data analysis, dashboard development, bilingual text processing, and AI-assisted market insight extraction.
+This project was built to practice customer review analytics, sentiment analysis, bilingual text processing, dashboard development, cloud deployment, and AI-assisted market insight extraction.
