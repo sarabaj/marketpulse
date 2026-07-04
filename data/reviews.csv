@@ -1,0 +1,251 @@
+review_id,company,review_text,rating,date
+1,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-04-12
+2,Nova Bank,The onboarding process is way too long and confusing.,2,2026-01-19
+3,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-01-25
+4,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-15
+5,PayEase,"Excellent security features, I feel safe using it.",5,2026-02-24
+6,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-04-22
+7,Nova Bank,"Loving the new update, much faster now!",5,2026-03-03
+8,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-19
+9,PayEase,The app keeps crashing every time I try to transfer money.,1,2026-02-01
+10,PayEase,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-06-10
+11,Nova Bank,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-05-28
+12,Fintra,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-01-13
+13,Nova Bank,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-05-23
+14,Nova Bank,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-03-16
+15,Nova Bank,"Loving the new update, much faster now!",5,2026-05-19
+16,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-03-20
+17,PayEase,"Decent app, does what it says, nothing special.",3,2026-02-16
+18,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-05-27
+19,Nova Bank,The onboarding process is way too long and confusing.,2,2026-04-06
+20,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-01-17
+21,Nova Bank,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-06-08
+22,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-06-24
+23,Fintra,"Decent app, does what it says, nothing special.",3,2026-03-22
+24,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-04-27
+25,Fintra,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-03-05
+26,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-06-28
+27,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-01-21
+28,Fintra,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-05-15
+29,Fintra,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-04-25
+30,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-01-19
+31,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-18
+32,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-02-08
+33,Fintra,"Excellent security features, I feel safe using it.",5,2026-04-18
+34,PayEase,The app keeps crashing every time I try to transfer money.,1,2026-01-20
+35,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-05-27
+36,Fintra,"Simple and intuitive interface, exactly what I needed.",4,2026-03-29
+37,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-06-02
+38,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-04-27
+39,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-03-11
+40,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-06-20
+41,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-06-29
+42,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-05-28
+43,Fintra,The onboarding process is way too long and confusing.,2,2026-03-14
+44,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-06-21
+45,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-04-29
+46,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-06-06
+47,Fintra,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-01-16
+48,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-02-03
+49,Nova Bank,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-04-12
+50,Fintra,"Loving the new update, much faster now!",5,2026-01-21
+51,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-04-13
+52,Fintra,"Decent app, does what it says, nothing special.",3,2026-02-05
+53,Fintra,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-05-21
+54,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-04-17
+55,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-04-08
+56,Nova Bank,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-01-22
+57,Nova Bank,"Customer support never responds, waited 3 days for a reply.",1,2026-03-01
+58,Nova Bank,The onboarding process is way too long and confusing.,2,2026-01-04
+59,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-02-16
+60,Fintra,"Great app, but the fees are too high compared to competitors.",3,2026-01-02
+61,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-05-17
+62,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-05-25
+63,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-06-26
+64,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-06-08
+65,PayEase,The onboarding process is way too long and confusing.,2,2026-01-14
+66,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-05-24
+67,Fintra,"Loving the new update, much faster now!",5,2026-04-13
+68,Nova Bank,"Loving the new update, much faster now!",5,2026-05-04
+69,Fintra,The onboarding process is way too long and confusing.,2,2026-01-16
+70,Nova Bank,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-02-23
+71,Nova Bank,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-01-29
+72,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-14
+73,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-05-26
+74,PayEase,"Customer support never responds, waited 3 days for a reply.",1,2026-01-26
+75,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-07
+76,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-06-07
+77,Nova Bank,"Loving the new update, much faster now!",5,2026-06-12
+78,Fintra,"Great app, but the fees are too high compared to competitors.",3,2026-06-04
+79,Fintra,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-02-01
+80,Fintra,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-30
+81,Fintra,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-03-21
+82,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-01-27
+83,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-03-09
+84,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-02-11
+85,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-02-22
+86,Fintra,"Decent app, does what it says, nothing special.",3,2026-02-07
+87,PayEase,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-01-07
+88,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-03-18
+89,Nova Bank,The onboarding process is way too long and confusing.,2,2026-06-28
+90,Fintra,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-05-13
+91,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-04-02
+92,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-05-17
+93,PayEase,"Decent app, does what it says, nothing special.",3,2026-03-26
+94,Nova Bank,The onboarding process is way too long and confusing.,2,2026-06-06
+95,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-03-03
+96,Fintra,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-02-28
+97,PayEase,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-05-07
+98,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-08
+99,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-05-01
+100,Nova Bank,"Great app, but the fees are too high compared to competitors.",3,2026-06-27
+101,Fintra,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-04-25
+102,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-03-31
+103,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-02-26
+104,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-05-01
+105,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-02-22
+106,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-06-06
+107,Nova Bank,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-05-03
+108,PayEase,"Excellent security features, I feel safe using it.",5,2026-03-30
+109,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-01-22
+110,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-01-31
+111,Fintra,"Excellent security features, I feel safe using it.",5,2026-02-21
+112,Nova Bank,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-04-22
+113,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-03-27
+114,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-12
+115,Fintra,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-01-22
+116,Nova Bank,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-02-13
+117,Nova Bank,"Customer support never responds, waited 3 days for a reply.",1,2026-02-08
+118,Fintra,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-06-17
+119,PayEase,"Customer support never responds, waited 3 days for a reply.",1,2026-06-02
+120,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-03-31
+121,PayEase,"Customer support never responds, waited 3 days for a reply.",1,2026-05-21
+122,Nova Bank,"Customer support never responds, waited 3 days for a reply.",1,2026-01-04
+123,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-06-16
+124,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-02-05
+125,Nova Bank,"Loving the new update, much faster now!",5,2026-02-24
+126,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-02-24
+127,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-03-03
+128,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-03-25
+129,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-04-18
+130,Nova Bank,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-01-16
+131,PayEase,"Excellent security features, I feel safe using it.",5,2026-04-01
+132,Fintra,"Excellent security features, I feel safe using it.",5,2026-06-19
+133,PayEase,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-04-18
+134,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-02-03
+135,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-05-15
+136,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-04-23
+137,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-06-05
+138,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-02-14
+139,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-06-08
+140,Nova Bank,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-05-23
+141,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-06-24
+142,PayEase,"Decent app, does what it says, nothing special.",3,2026-05-23
+143,Nova Bank,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-05-24
+144,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-02-18
+145,Nova Bank,"Great app, but the fees are too high compared to competitors.",3,2026-01-26
+146,Fintra,"Decent app, does what it says, nothing special.",3,2026-05-24
+147,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-04-24
+148,PayEase,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-05-10
+149,PayEase,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-02-21
+150,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-04-26
+151,PayEase,"Decent app, does what it says, nothing special.",3,2026-05-03
+152,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-06-28
+153,Fintra,"Decent app, does what it says, nothing special.",3,2026-05-24
+154,Nova Bank,"Excellent security features, I feel safe using it.",5,2026-04-25
+155,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-02-01
+156,Fintra,"Loving the new update, much faster now!",5,2026-03-22
+157,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-03-03
+158,Nova Bank,"Loving the new update, much faster now!",5,2026-02-24
+159,Fintra,The onboarding process is way too long and confusing.,2,2026-02-01
+160,Nova Bank,"Excellent security features, I feel safe using it.",5,2026-06-14
+161,Fintra,The onboarding process is way too long and confusing.,2,2026-02-06
+162,Nova Bank,"Great app, but the fees are too high compared to competitors.",3,2026-04-30
+163,PayEase,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-01-25
+164,Fintra,"Loving the new update, much faster now!",5,2026-02-11
+165,Nova Bank,The onboarding process is way too long and confusing.,2,2026-02-11
+166,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-05-12
+167,Fintra,"Loving the new update, much faster now!",5,2026-04-18
+168,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-03-23
+169,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-04
+170,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-05-22
+171,Fintra,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-06-30
+172,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-03-26
+173,PayEase,"Decent app, does what it says, nothing special.",3,2026-03-17
+174,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-01-29
+175,Nova Bank,"Excellent security features, I feel safe using it.",5,2026-01-27
+176,Fintra,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-03-11
+177,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-03-11
+178,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-04-19
+179,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-03-08
+180,Nova Bank,"Loving the new update, much faster now!",5,2026-05-18
+181,PayEase,"Excellent security features, I feel safe using it.",5,2026-05-27
+182,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-03-25
+183,Fintra,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-01-15
+184,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-02-16
+185,Nova Bank,"Loving the new update, much faster now!",5,2026-03-10
+186,PayEase,The app keeps crashing every time I try to transfer money.,1,2026-01-23
+187,Fintra,"Simple and intuitive interface, exactly what I needed.",4,2026-01-22
+188,Nova Bank,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-01-18
+189,Nova Bank,"Great app, but the fees are too high compared to competitors.",3,2026-04-27
+190,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-05-22
+191,Fintra,"Loving the new update, much faster now!",5,2026-06-09
+192,Nova Bank,"Customer support never responds, waited 3 days for a reply.",1,2026-05-15
+193,Nova Bank,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-01-29
+194,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-01-13
+195,Nova Bank,"Customer support never responds, waited 3 days for a reply.",1,2026-03-21
+196,Fintra,The onboarding process is way too long and confusing.,2,2026-05-16
+197,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-03-16
+198,PayEase,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-06-22
+199,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-03-30
+200,Nova Bank,"Simple and intuitive interface, exactly what I needed.",4,2026-03-06
+201,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-01-05
+202,PayEase,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-05-22
+203,PayEase,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-05-02
+204,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-01-28
+205,PayEase,The onboarding process is way too long and confusing.,2,2026-04-21
+206,Fintra,The onboarding process is way too long and confusing.,2,2026-05-20
+207,Fintra,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-05-10
+208,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-02-25
+209,Fintra,سهل الاستخدام لكن التصميم يحتاج تحديث,3,2026-02-20
+210,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-06-12
+211,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-03-30
+212,Nova Bank,The app keeps crashing every time I try to transfer money.,1,2026-01-04
+213,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-03-07
+214,Nova Bank,"Loving the new update, much faster now!",5,2026-01-15
+215,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-08
+216,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-06-21
+217,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-03-04
+218,Fintra,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-01-12
+219,Nova Bank,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-02-10
+220,Fintra,"Great app, but the fees are too high compared to competitors.",3,2026-01-01
+221,Fintra,"Great app, but the fees are too high compared to competitors.",3,2026-03-26
+222,Fintra,"Decent app, does what it says, nothing special.",3,2026-03-04
+223,Fintra,The app keeps crashing every time I try to transfer money.,1,2026-02-25
+224,Nova Bank,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-01
+225,Fintra,تطبيق حلو بس فيه مشاكل بتسجيل الدخول أحيانًا,2,2026-01-22
+226,Fintra,لا أنصح به، فقدت أموالي بسبب خطأ بالتطبيق ولا أحد ساعدني,1,2026-05-09
+227,Nova Bank,The onboarding process is way too long and confusing.,2,2026-03-05
+228,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-01-24
+229,Nova Bank,"Great app, but the fees are too high compared to competitors.",3,2026-02-06
+230,PayEase,"Loving the new update, much faster now!",5,2026-01-11
+231,Nova Bank,"Loving the new update, much faster now!",5,2026-03-18
+232,PayEase,"Great app, but the fees are too high compared to competitors.",3,2026-03-01
+233,PayEase,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-05-16
+234,Nova Bank,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-06-18
+235,PayEase,"Excellent security features, I feel safe using it.",5,2026-06-02
+236,Fintra,"Loving the new update, much faster now!",5,2026-05-07
+237,Fintra,"Customer support never responds, waited 3 days for a reply.",1,2026-06-08
+238,Nova Bank,The onboarding process is way too long and confusing.,2,2026-01-12
+239,PayEase,التطبيق يهنق كثير وقت التحويل بين الحسابات,2,2026-05-12
+240,Fintra,The onboarding process is way too long and confusing.,2,2026-06-29
+241,PayEase,"Simple and intuitive interface, exactly what I needed.",4,2026-02-05
+242,PayEase,"Excellent security features, I feel safe using it.",5,2026-05-10
+243,Nova Bank,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-06-25
+244,PayEase,أفضل تطبيق بنكي جربته، الدعم الفني ممتاز وسريع,5,2026-06-24
+245,PayEase,خدمة العملاء بطيئة جدًا، انتظرت أسبوع للرد,1,2026-02-28
+246,Nova Bank,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-01-11
+247,PayEase,"Customer support never responds, waited 3 days for a reply.",1,2026-04-03
+248,Fintra,التطبيق ممتاز وسريع، تجربة رائعة بصراحة,5,2026-04-26
+249,Nova Bank,"Decent app, does what it says, nothing special.",3,2026-06-10
+250,PayEase,The app keeps crashing every time I try to transfer money.,1,2026-05-17
